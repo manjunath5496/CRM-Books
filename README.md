@@ -74,28 +74,28 @@ Zoho CRM: Manage your Team, Pipeline, and Clients Effectively</a></li>
                             
  <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(39).pdf" style="text-decoration:none;"> Social CRM For Dummies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(40).pdf" style="text-decoration:none;">Bentonite, Kaolin, and Selected Clay Minerals</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(41).pdf" style="text-decoration:none;">Glossary of Clay Science</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(40).pdf" style="text-decoration:none;">42 Rules to Turn Prospects into Customers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(41).pdf" style="text-decoration:none;">Igniting Customer Connections</a></li>   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(42).pdf" style="text-decoration:none;">Clay Materials for Environmental Remediation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(43).pdf" style="text-decoration:none;">Clay Mineral Catalysis of Organic Reactions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(42).pdf" style="text-decoration:none;">Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy Social World </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(43).pdf" style="text-decoration:none;">Question Selling: Unlock Your Customer's Needs to Close the Sale... by Knowing What to Ask and When to Ask It </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(44).pdf" style="text-decoration:none;">Create a Polymer Clay Impression</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(44).pdf" style="text-decoration:none;">Red-Hot Sales Negotiation</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(45).pdf" style="text-decoration:none;"> Geology of Clays - Weathering · Sedimentology · Geochemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(45).pdf" style="text-decoration:none;"> Sales Don't Just Happen: 26 Proven Strategies to Increase Sales in Any Market</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(46).pdf" style="text-decoration:none;">Introduction to Clay Minerals</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(47).pdf" style="text-decoration:none;">Soft Clay Engineering</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(46).pdf" style="text-decoration:none;">Selling for the Long Run: Build Lasting Customer Relationships for Breakthrough Results</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(47).pdf" style="text-decoration:none;">Social Marketing to the Business Customer: Listen to Your B2B Market, Generate Major Account Leads, and Build Client Relationships</a></li>   
                           
- <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(48).pdf" style="text-decoration:none;"> Bearing Capacity and Immediate Settlement of Shallow Foundation on Clay</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(48).pdf" style="text-decoration:none;"> Think Like Your Customer: A Winning Strategy to Maximize Sales by Understanding and Influencing How and Why Your Customers Buy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(49).pdf" style="text-decoration:none;">The Healing Art of Clay Therapy</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(50).pdf" style="text-decoration:none;">The Polymer Clay Techniques</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(49).pdf" style="text-decoration:none;">Transformational Sales: Making a Difference with Strategic Customers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(50).pdf" style="text-decoration:none;">Unlimited Sales Success: 12 Simple Steps for Selling More Than You Ever Thought Possible</a></li>   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(51).pdf" style="text-decoration:none;">X-Ray Diffraction and the Identification and Analysis of Clay Minerals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(51).pdf" style="text-decoration:none;">What the Customer Wants You to Know: How Everybody Needs to Think Differently About Sales</a></li>
  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(52).pdf" style="text-decoration:none;">Make Animal Sculptures with Paper Mache Clay</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(52).pdf" style="text-decoration:none;">Your Customer Rules!: Delivering the Me2B Experiences That Todays Customers Demand</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(53).pdf" style="text-decoration:none;">Applied Clay Mineralogy</a></li>   
 
  <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(54).pdf" style="text-decoration:none;">Origin and Mineralogy of Clays</a></li>   
