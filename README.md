@@ -143,13 +143,30 @@ Zoho CRM: Manage your Team, Pipeline, and Clients Effectively</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(75).pdf" style="text-decoration:none;">Trust-Based Selling: Using Customer Focus and Collaboration to Build Long-Term Relationships</a></li>   
  
  
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(76).pdf" style="text-decoration:none;">AI in Marketing, Sales and Service: How Marketers without a Data Science Degree can use AI, Big Data and Bots</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(77).pdf" style="text-decoration:none;">Analyzing Data with Microsoft Power BI and Power Pivot for Excel</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(78).pdf" style="text-decoration:none;">Data Mining Cookbook: Modeling Data for Marketing, Risk, and Customer Relationship Management</a></li>   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(79).pdf" style="text-decoration:none;">Data Science for Business: What you need to know about data mining and data-analytic thinking</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(80).pdf" style="text-decoration:none;">Delivering Effective Social Customer Service: How to Redefine the Way You Manage Customer Experience and Your Corporate Reputation</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(81).pdf" style="text-decoration:none;">Everyone Is a Customer: A Proven Method for Measuring the Value of Every Relationship in the Era of Collaborative Business</a></li>   
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(82).pdf" style="text-decoration:none;">Measuring Customer Experience</a></li>   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(83).pdf" style="text-decoration:none;">Predictive Marketing: Easy Ways Every Marketer Can Use Customer Analytics and Big Data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(84).pdf" style="text-decoration:none;">Rethinking the Sales Cycle: How Superior Sellers Embrace the Buying Cycle to Achieve a Sustainable and Competitive Advantage</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(85).pdf" style="text-decoration:none;">The Big Data-Driven Business: How to Use Big Data to Win Customers, Beat Competitors, and Boost Profits</a></li>   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(86).pdf" style="text-decoration:none;">The Definitive Guide to Customer Relationship Management</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(87).pdf" style="text-decoration:none;">Value-Based Marketing for Bottom-Line Success</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(88).pdf" style="text-decoration:none;">Who Stole My Customer? Winning Strategies for Creating and Sustaining Customer Loyalty</a></li>    
   
-  
- 
- 
- 
- 
- 
- 
 
 </ul> 
+</br>
+
