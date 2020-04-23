@@ -115,6 +115,35 @@ Zoho CRM: Manage your Team, Pipeline, and Clients Effectively</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(61).pdf" style="text-decoration:none;">Exceptional Service, Exceptional Profit: The Secrets of Building a Five-Star Customer Service Organization</a></li>   
  
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(62).pdf" style="text-decoration:none;">Get Content Get Customers: Turn Prospects into Buyers with Content Marketing</a></li>
+ 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(63).pdf" style="text-decoration:none;">Heavy Hitter Selling: How Successful Salespeople Use Language and Intuition to Persuade Customers to Buy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(64).pdf" style="text-decoration:none;">Hooked On Customers: The Five Habits of Legendary Customer-Centric Companies</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(65).pdf" style="text-decoration:none;">Loyalty Rules!: How Today's Leaders Build Lasting Relationships</a></li>   
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(66).pdf" style="text-decoration:none;"> Managing Challenging Clients: Building Effective Relationships with Difficult Customers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(67).pdf" style="text-decoration:none;">Measure What Matters: Online Tools For Understanding Customers, Social Media, Engagement, and Key Relationships</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(68).pdf" style="text-decoration:none;">Service Quality and Customer Relationship Management</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(69).pdf" style="text-decoration:none;">The Big Book of Small Business: You Don't Have to Run Your Business by the Seat of Your Pants </a></li>
+ 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(70).pdf" style="text-decoration:none;">The Complete Book of Perfect Phrases for High-Performing Sales Professionals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(71).pdf" style="text-decoration:none;">The Customer Centricity Playbook: Implement a Winning Strategy Driven by Customer Lifetime Value</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(72).pdf" style="text-decoration:none;">The emotional intelligence activity kit: 50 easy and effective exercises for building EQ</a></li>   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(73).pdf" style="text-decoration:none;">The Entrepreneur's Guide to Customer Development: A cheat sheet to The Four Steps to the Epiphany</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(74).pdf" style="text-decoration:none;">The Relationship Edge: The Key to Strategic Influence and Selling Success</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(75).pdf" style="text-decoration:none;">Trust-Based Selling: Using Customer Focus and Collaboration to Build Long-Term Relationships</a></li>   
+ 
+ 
+  
   
  
  
