@@ -1,3 +1,11 @@
+<p><strong>Customer relationship management</strong>&nbsp;(<strong>CRM</strong>) is an approach to managing a company's interaction with current and potential&nbsp;<a title="Customer" href="https://en.wikipedia.org/wiki/Customer">customers</a>. It uses&nbsp;<a title="Data analysis" href="https://en.wikipedia.org/wiki/Data_analysis">data analysis</a>&nbsp;about customers' history with a company to improve business relationships with customers, specifically focusing on&nbsp;<a title="Customer retention" href="https://en.wikipedia.org/wiki/Customer_retention">customer retention</a>&nbsp;and ultimately driving&nbsp;<a title="Sales" href="https://en.wikipedia.org/wiki/Sales">sales</a>&nbsp;growth.</p>
+<p>One important aspect of the CRM approach is the systems of CRM that compile&nbsp;<a title="Data" href="https://en.wikipedia.org/wiki/Data">data</a>&nbsp;from a range of different communication channels, including a company's website, telephone, email, live chat, marketing materials and more recently, social media.&nbsp;Through the CRM approach and the systems used to facilitate it, businesses learn more about their target audiences and how to best cater to their needs.</p>
+
+
+
+
+
+
 </br>
 <h2 id="Books"> Books</h2>
 <ul>
