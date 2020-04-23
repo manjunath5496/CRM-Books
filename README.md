@@ -96,8 +96,31 @@ Zoho CRM: Manage your Team, Pipeline, and Clients Effectively</a></li>
  
  
 <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(52).pdf" style="text-decoration:none;">Your Customer Rules!: Delivering the Me2B Experiences That Todays Customers Demand</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(53).pdf" style="text-decoration:none;">Applied Clay Mineralogy</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(53).pdf" style="text-decoration:none;">1001 Ways to Get More Customers</a></li>   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(54).pdf" style="text-decoration:none;">Origin and Mineralogy of Clays</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(54).pdf" style="text-decoration:none;">The Effect of Mobile Customer Relationship Management Applications on Customer Knowledge Creation</a></li>   
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(55).pdf" style="text-decoration:none;"> Business Model Design Compass: Open Innovation Funnel to Schumpeterian New Combination Business Model Developing Circle</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(56).pdf" style="text-decoration:none;">Critical Selling: How Top Performers Accelerate the Sales Process and Close More Deals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(57).pdf" style="text-decoration:none;">Customer Relationship Management: How to turn a good business into a great one!</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(58).pdf" style="text-decoration:none;">Customer Relationship Management: Perspectives from the Marketplace</a></li>
+ 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(59).pdf" style="text-decoration:none;">Customer Share Marketing: How the World's Great Marketers Unlock Profits from Customer Loyalty</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(60).pdf" style="text-decoration:none;">Data Driven: Harnessing Data and AI to Reinvent Customer Engagement</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Books/blob/master/mrc(61).pdf" style="text-decoration:none;">Exceptional Service, Exceptional Profit: The Secrets of Building a Five-Star Customer Service Organization</a></li>   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
 
 </ul> 
