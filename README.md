@@ -1,5 +1,49 @@
 <p><strong>Customer relationship management</strong>&nbsp;(<strong>CRM</strong>) is an approach to managing a company's interaction with current and potential&nbsp;<a title="Customer" href="https://en.wikipedia.org/wiki/Customer">customers</a>. It uses&nbsp;<a title="Data analysis" href="https://en.wikipedia.org/wiki/Data_analysis">data analysis</a>&nbsp;about customers' history with a company to improve business relationships with customers, specifically focusing on&nbsp;<a title="Customer retention" href="https://en.wikipedia.org/wiki/Customer_retention">customer retention</a>&nbsp;and ultimately driving&nbsp;<a title="Sales" href="https://en.wikipedia.org/wiki/Sales">sales</a>&nbsp;growth.</p>
 <p>One important aspect of the CRM approach is the systems of CRM that compile&nbsp;<a title="Data" href="https://en.wikipedia.org/wiki/Data">data</a>&nbsp;from a range of different communication channels, including a company's website, telephone, email, live chat, marketing materials and more recently, social media.&nbsp;Through the CRM approach and the systems used to facilitate it, businesses learn more about their target audiences and how to best cater to their needs.</p>
+</br>
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Software_history"><span class="toctext">Software history</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types"><span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Strategic"><span class="toctext">Strategic</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Operational"><span class="toctext">Operational</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Analytical"><span class="toctext">Analytical</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Collaborative"><span class="toctext">Collaborative</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Customer_Data_Platform"><span class="toctext">Customer Data Platform</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Components"><span class="toctext">Components</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Effect_on_customer_satisfaction"><span class="toctext">Effect on customer satisfaction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Customer_benefits"><span class="toctext">Customer benefits</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Examples"><span class="toctext">Examples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Customer_profile"><span class="toctext">Customer profile</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Improving_CRM_within_a_firm"><span class="toctext">Improving CRM within a firm</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Analyzing_the_information"><span class="toctext">Analyzing the information</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Employee_training"><span class="toctext">Employee training</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Application"><span class="toctext">Application</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#In_practice"><span class="toctext">In practice</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Call_centers"><span class="toctext">Call centers</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Contact-center_automation"><span class="toctext">Contact-center automation</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Social_media"><span class="toctext">Social media</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Location-based_services"><span class="toctext">Location-based services</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Business-to-business_transactions"><span class="toctext">Business-to-business transactions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#CRM_market"><span class="toctext">CRM market</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Market_trends"><span class="toctext">Market trends</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Criticism"><span class="toctext">Criticism</span></a></li>
+</ul>
+</br>
 
 
 
